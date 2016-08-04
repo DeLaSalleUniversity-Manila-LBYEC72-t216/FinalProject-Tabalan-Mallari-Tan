@@ -22,6 +22,7 @@
 * Program classifies the products into various categories (clothes, food, etc.)
 * Program displays when a product is already sold or reserved
 * Program displays special promotions
+* Program stores items to be purchased in a "cart"
 * Program computes raw prices and total price tax
 * Buyers may leave a review 
 * Displays information and background about the seller
