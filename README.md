@@ -10,7 +10,7 @@
 ####Concepts to be applied:
 * Arrays (storing the products and prices in the database)
 * Strings (item numbers/product names, category names)
-* Conditional statements
+* Conditional statements 
 * Structure
 * Pointers
 * Pass by Reference
@@ -22,4 +22,11 @@
 * Program classifies the products into various categories (clothes, food, etc.)
 * Program displays when a product is already sold or reserved
 * Program displays special promotions
-* 
+* Program computes raw prices and total price tax
+* Buyers may leave a review 
+* Displays information and background about the seller
+
+
+####Relevance:
+* Several students are interested in online marketing and online shopping nowadays
+* It is easier to gather information in a large database
