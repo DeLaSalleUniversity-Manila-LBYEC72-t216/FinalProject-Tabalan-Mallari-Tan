@@ -9,9 +9,9 @@
 
 ####Concepts to be applied:
 * Arrays (storing the products and prices in the database)
-* Strings (item numbers/product names, category names)
+* Strings (product names, category names)
 * Conditional statements 
-* Structure
+* Structure (product codes, number of available items, sizes available)
 * Pointers
 * Pass by Reference
 
