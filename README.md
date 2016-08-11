@@ -31,3 +31,6 @@
 ####Relevance:
 * Several students are interested in online marketing and online shopping nowadays
 * It is easier to gather information in a large database
+
+####Difficulty
+* This program offers many features that may be difficult to implement in the coding process. We will be using many concepts used in Lbyec72 in creating this program.
